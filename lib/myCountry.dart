@@ -57,7 +57,7 @@ class _myCountryState extends State<myCountry> {
              body: Center(
                child: Container(
                 padding: EdgeInsets.symmetric(horizontal: 20),
-                height: 200,
+                height: 150,
                 child: Column(
                 children: [
                   CSCPicker(
